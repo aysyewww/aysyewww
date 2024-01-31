@@ -2,10 +2,10 @@
 
 ## Bio
 
-Hello, I'm [Your Name]! 👋 Here's a little bit about me:
+Hello, I'm Rihhadatul Aisy! 👋 Here's a little bit about me:
 
 - 🌐 [Your Website/Portfolio Link]
-- 📫 How to reach me: [Your Email Address]
+- 📫 How to reach me: rhdtlaisy85@gmail.com
 
 ### Skills
 
@@ -14,7 +14,9 @@ Hello, I'm [Your Name]! 👋 Here's a little bit about me:
 
 ### Interests
 
-- [Your Interests/Hobbies]
+- Reading
+- Singing
+- Writing 
 
 ### Projects
 

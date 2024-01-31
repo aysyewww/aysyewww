@@ -1,16 +1,23 @@
-### Hi there 👋
+# [Your Username]
 
-<!--
-**aysyewww/aysyewww** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Bio
 
-Here are some ideas to get you started:
+Hello, I'm [Your Name]! 👋 Here's a little bit about me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌐 [Your Website/Portfolio Link]
+- 📫 How to reach me: [Your Email Address]
+
+### Skills
+
+- Programming Languages: [List your programming languages]
+- Technologies: [List your technologies]
+
+### Interests
+
+- [Your Interests/Hobbies]
+
+### Projects
+
+- [List any notable projects]
+
+Feel free to explore my GitHub repositories and connect with me! 😊

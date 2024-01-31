@@ -1,25 +1,33 @@
-# [Your Username]
+# [Your GitHub Username]
 
-## Bio
+## Biography
 
-Hello, I'm Rihhadatul Aisy! 👋 Here's a little bit about me:
+Hello, I'm Rihhadatul Aisy! 👋 I am student with an interest in photography. 
 
-- 🌐 [Your Website/Portfolio Link]
-- 📫 How to reach me: rhdtlaisy85@gmail.com
+- 🌐 [Link to Your Site/Portfolio]
+- 📧 Contact me: rhdtlaisy85@gmail.com
 
-### Skills
+### Skill
 
-- Programming Languages: [List your programming languages]
-- Technologies: [List your technologies]
+- **Programming Languages:** [List of programming languages you are proficient in]
+- **Technology:** [List of technologies you are proficient in]
 
-### Interests
+### Education
 
-- Reading
+- **student** in Al-Quran Science High School, Wahid Hasyim, Yogyakarta
+
+### Work experience
+
+- **IPPNU:** PK chairman, 2022 - 2023
+
+### Project
+
+- [List of projects you have worked on or projects you are proud of]
+
+### Other Interests
+
 - Singing
-- Writing 
+- Reading
+- watching movies
 
-### Projects
-
-- [List any notable projects]
-
-Feel free to explore my GitHub repositories and connect with me! 😊
+Feel free to explore my GitHub repository and contact me if you have any questions or collaborations! 😊
